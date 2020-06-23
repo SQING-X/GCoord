@@ -1,6 +1,7 @@
 <template>
     <div class="gc-wrap">
         <h2>Gcoord地理坐标转换器</h2>
+        <el-tag>by:Sqing</el-tag>
         <el-card class="box-card">
             <div class="tips">1. 本工具参考<el-link href='https://github.com/hujiulong/gcoord' target='_blank' type='primary'>gcoord</el-link></div>
             <div class="tips">2. 修正百度地图、高德地图及其它互联网地图坐标系不统一的问题</div>
